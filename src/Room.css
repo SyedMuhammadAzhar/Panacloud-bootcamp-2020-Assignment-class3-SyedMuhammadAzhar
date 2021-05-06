@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.room{
+    height: 100vh;
+    text-align: center;
+    font-size: 30px;
+}
+.lit{
+    background-color: white;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
